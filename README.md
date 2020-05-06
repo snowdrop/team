@@ -22,4 +22,4 @@ Description :
 
 **Important**: Extend the list of the tasks during the week and move the issue under the column `In Progress`. End of the week (= Thursday, when the reporting tool will populate the report), then move the issue to `Done` column.
 
-**Remark**: When you work on different tasks according to the following list or labels : following categories : https://github.com/snowdrop/snowdrop-team/labels?q=-, then create a issue fior the corresponding label and manage it using the collumns: `New Issue`, `Icebox`, `Backlog`, `In Progress` and `Done`
+**Remark**: When you work on different tasks according to the following list or labels : https://github.com/snowdrop/snowdrop-team/labels?q=-, then create an issue fior the corresponding label and manage it using the collumns: `New Issue`, `Icebox`, `Backlog`, `In Progress` and `Done`
